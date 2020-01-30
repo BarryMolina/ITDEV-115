@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{177B5E1D-EB6A-470F-A403-F505B29FB871}|Default">
+  <MonoDevelop.Ide.ItemProperties.Molina__RectangleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_RectangleApp/Dimensions.cs">
+    <Files>
+      <File FileName="Molina_RectangleApp/Dimensions.cs" Line="28" Column="21" />
+      <File FileName="Molina_RectangleApp/Molina_RectangleApp.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molina_RectangleApp" expanded="True">
+            <Node name="Molina_RectangleApp" expanded="True">
+              <Node name="Dimensions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

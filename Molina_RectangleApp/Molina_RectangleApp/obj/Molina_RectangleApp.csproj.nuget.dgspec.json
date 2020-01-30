@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
+        "projectName": "Molina_RectangleApp",
+        "projectPath": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
+        "packagesPath": "/Users/barrymolina/.nuget/packages/",
+        "outputPath": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/barrymolina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

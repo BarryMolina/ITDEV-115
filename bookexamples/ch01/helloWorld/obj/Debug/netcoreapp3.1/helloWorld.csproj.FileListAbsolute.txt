@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/barrymolina/MATC/SP2020/ITDEV-115/ch1/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb

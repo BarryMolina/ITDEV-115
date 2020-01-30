@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/barrymolina/MATC/SP2020/ITDEV-115/helloworld/myApp/obj/Debug/netcoreapp3.1/myApp.pdb

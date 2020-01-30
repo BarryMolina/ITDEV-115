@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp.deps.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp.dll
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/bin/Debug/netcoreapp3.1/StudentApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/obj/Debug/netcoreapp3.1/StudentApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/obj/Debug/netcoreapp3.1/StudentApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/obj/Debug/netcoreapp3.1/StudentApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/obj/Debug/netcoreapp3.1/StudentApp.dll
+/Users/barrymolina/MATC/SP2020/C#/ch03/StudentApp/obj/Debug/netcoreapp3.1/StudentApp.pdb

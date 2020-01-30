@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters.deps.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters.dll
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/bin/Debug/netcoreapp3.1/Parameters.pdb
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/obj/Debug/netcoreapp3.1/Parameters.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/obj/Debug/netcoreapp3.1/Parameters.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/obj/Debug/netcoreapp3.1/Parameters.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/obj/Debug/netcoreapp3.1/Parameters.dll
+/Users/barrymolina/MATC/SP2020/C#/ch03/Parameters/obj/Debug/netcoreapp3.1/Parameters.pdb
