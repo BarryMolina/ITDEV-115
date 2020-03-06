@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C5D18271-FD38-4A41-9B22-F45CD496A536}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_MagicApp/MagicPCUI.cs">
+    <Files>
+      <File FileName="Molina_MagicApp/Info.cs" Line="10" Column="55" />
+      <File FileName="Molina_MagicApp/MagicPCUI.cs" Line="15" Column="13" />
+      <File FileName="Molina_MagicApp/MagicPC.cs" Line="28" Column="11" />
+      <File FileName="Molina_MagicApp/MagicPCApp.cs" Line="14" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molina_MagicApp" expanded="True">
+            <Node name="Molina_MagicApp" expanded="True">
+              <Node name="MagicPCUI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Molina__MagicApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

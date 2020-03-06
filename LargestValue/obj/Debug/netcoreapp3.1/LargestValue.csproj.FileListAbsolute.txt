@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/obj/Debug/netcoreapp3.1/LargestValue.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/obj/Debug/netcoreapp3.1/LargestValue.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/obj/Debug/netcoreapp3.1/LargestValue.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue.deps.json
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue.dll
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/bin/Debug/netcoreapp3.1/LargestValue.pdb
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/obj/Debug/netcoreapp3.1/LargestValue.dll
+/Users/barrymolina/MATC/SP2020/C#/LargestValue/obj/Debug/netcoreapp3.1/LargestValue.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {}
+    "/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {}
   },
   "projects": {
-    "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {
+    "/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
+        "projectUniqueName": "/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
         "projectName": "Molina_RectangleApp",
-        "projectPath": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
+        "projectPath": "/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.csproj",
         "packagesPath": "/Users/barrymolina/.nuget/packages/",
-        "outputPath": "/Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/obj/",
+        "outputPath": "/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/barrymolina/.config/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }

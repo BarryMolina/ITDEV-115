@@ -15,8 +15,8 @@ namespace Molina_RectangleApp
             dimensions.InputHeight();
             dimensions.InputWidth();
 
-            WriteLine("\nThe area of the rectangle is " + dimensions.CalculateArea());
-            WriteLine("The perimeter of the rectangle is " + dimensions.CalculatePerimeter());
+            WriteLine("\nThe area of the rectangle is {0:f1}", dimensions.CalculateArea());
+            WriteLine("The perimeter of the rectangle is {0:f1}", dimensions.CalculatePerimeter());
 
             ReadKey();
         }

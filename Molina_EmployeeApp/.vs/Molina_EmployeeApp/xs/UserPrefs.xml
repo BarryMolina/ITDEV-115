@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BE080233-9092-46E9-BF77-2EA003E51E1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_EmployeeApp/EmployeeApp.cs">
+    <Files>
+      <File FileName="Molina_EmployeeApp/Questions.cs" Line="20" Column="25" />
+      <File FileName="Molina_EmployeeApp/Employee.cs" />
+      <File FileName="Molina_EmployeeApp/EmployeeApp.cs" Line="1" Column="1" />
+      <File FileName="../Molina_RectangleApp/Molina_RectangleApp/Molina_RectangleApp.cs" />
+      <File FileName="Molina_EmployeeApp/EmployeeApp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molina_EmployeeApp" expanded="True">
+            <Node name="Molina_EmployeeApp" expanded="True">
+              <Node name="EmployeeApp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Molina__EmployeeApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -9,3 +9,14 @@
 /Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.AssemblyInfo.cs
 /Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.dll
 /Users/barrymolina/Projects/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp.deps.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/bin/Debug/netcoreapp3.1/Molina_RectangleApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_RectangleApp/Molina_RectangleApp/obj/Debug/netcoreapp3.1/Molina_RectangleApp.pdb

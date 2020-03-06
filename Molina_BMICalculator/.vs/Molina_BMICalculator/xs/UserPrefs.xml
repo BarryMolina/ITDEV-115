@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E1CB0B2B-2984-4C18-81CA-A79269D890E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_BMICalculator/Molina_BMICalculator.cs">
+    <Files>
+      <File FileName="Molina_BMICalculator/BMI.cs" Line="71" Column="5" />
+      <File FileName="Molina_BMICalculator/BMIUI.cs" Line="32" Column="1" />
+      <File FileName="Molina_BMICalculator/Molina_BMICalculator.cs" Line="24" Column="32" />
+      <File FileName="Molina_BMICalculator/Info.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molina_BMICalculator" expanded="True">
+            <Node name="Molina_BMICalculator" expanded="True">
+              <Node name="Molina_BMICalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Molina__BMICalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

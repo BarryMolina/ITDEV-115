@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/obj/Debug/netcoreapp3.1/StateControlled.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/obj/Debug/netcoreapp3.1/StateControlled.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/obj/Debug/netcoreapp3.1/StateControlled.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled.deps.json
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled.dll
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/bin/Debug/netcoreapp3.1/StateControlled.pdb
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/obj/Debug/netcoreapp3.1/StateControlled.dll
+/Users/barrymolina/MATC/SP2020/C#/StateControlled/obj/Debug/netcoreapp3.1/StateControlled.pdb

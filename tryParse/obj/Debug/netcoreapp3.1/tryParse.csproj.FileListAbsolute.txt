@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse.deps.json
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse.dll
+/Users/barrymolina/MATC/SP2020/C#/tryParse/bin/Debug/netcoreapp3.1/tryParse.pdb
+/Users/barrymolina/MATC/SP2020/C#/tryParse/obj/Debug/netcoreapp3.1/tryParse.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/tryParse/obj/Debug/netcoreapp3.1/tryParse.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/tryParse/obj/Debug/netcoreapp3.1/tryParse.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/tryParse/obj/Debug/netcoreapp3.1/tryParse.dll
+/Users/barrymolina/MATC/SP2020/C#/tryParse/obj/Debug/netcoreapp3.1/tryParse.pdb

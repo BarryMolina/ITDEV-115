@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/obj/Debug/netcoreapp3.1/Molina_StudentStudyApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/obj/Debug/netcoreapp3.1/Molina_StudentStudyApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/obj/Debug/netcoreapp3.1/Molina_StudentStudyApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp.deps.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/bin/Debug/netcoreapp3.1/Molina_StudentStudyApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/obj/Debug/netcoreapp3.1/Molina_StudentStudyApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_StudentStudyApp/Molina_StudentStudyApp/obj/Debug/netcoreapp3.1/Molina_StudentStudyApp.pdb

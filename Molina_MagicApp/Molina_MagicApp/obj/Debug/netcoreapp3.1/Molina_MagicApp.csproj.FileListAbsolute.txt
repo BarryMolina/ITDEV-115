@@ -1,0 +1,11 @@
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp.deps.json
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp.runtimeconfig.json
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp.runtimeconfig.dev.json
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp.dll
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/bin/Debug/netcoreapp3.1/Molina_MagicApp.pdb
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/Debug/netcoreapp3.1/Molina_MagicApp.csprojAssemblyReference.cache
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/Debug/netcoreapp3.1/Molina_MagicApp.AssemblyInfoInputs.cache
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/Debug/netcoreapp3.1/Molina_MagicApp.AssemblyInfo.cs
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/Debug/netcoreapp3.1/Molina_MagicApp.dll
+/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/Debug/netcoreapp3.1/Molina_MagicApp.pdb

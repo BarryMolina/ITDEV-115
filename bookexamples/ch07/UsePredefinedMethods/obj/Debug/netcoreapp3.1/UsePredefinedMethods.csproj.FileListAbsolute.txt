@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods.deps.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods.dll
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/bin/Debug/netcoreapp3.1/UsePredefinedMethods.pdb
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/obj/Debug/netcoreapp3.1/UsePredefinedMethods.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/obj/Debug/netcoreapp3.1/UsePredefinedMethods.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/obj/Debug/netcoreapp3.1/UsePredefinedMethods.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/obj/Debug/netcoreapp3.1/UsePredefinedMethods.dll
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/UsePredefinedMethods/obj/Debug/netcoreapp3.1/UsePredefinedMethods.pdb

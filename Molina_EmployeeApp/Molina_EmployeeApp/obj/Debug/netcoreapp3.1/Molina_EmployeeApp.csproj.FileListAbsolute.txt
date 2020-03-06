@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/obj/Debug/netcoreapp3.1/Molina_EmployeeApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/obj/Debug/netcoreapp3.1/Molina_EmployeeApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/obj/Debug/netcoreapp3.1/Molina_EmployeeApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp.deps.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/bin/Debug/netcoreapp3.1/Molina_EmployeeApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/obj/Debug/netcoreapp3.1/Molina_EmployeeApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_EmployeeApp/Molina_EmployeeApp/obj/Debug/netcoreapp3.1/Molina_EmployeeApp.pdb

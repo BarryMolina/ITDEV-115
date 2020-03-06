@@ -1,0 +1,11 @@
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/obj/Debug/netcoreapp3.1/VaryingArguments.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/obj/Debug/netcoreapp3.1/VaryingArguments.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/obj/Debug/netcoreapp3.1/VaryingArguments.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments.deps.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments.dll
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/bin/Debug/netcoreapp3.1/VaryingArguments.pdb
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/obj/Debug/netcoreapp3.1/VaryingArguments.dll
+/Users/barrymolina/MATC/SP2020/C#/bookexamples/ch07/VaryingArguments/obj/Debug/netcoreapp3.1/VaryingArguments.pdb
