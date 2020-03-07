@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Molina_ElectionResultsApp
 {
@@ -6,7 +7,14 @@ namespace Molina_ElectionResultsApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Info info = new Info();
+            ElectionUI electionUI = new ElectionUI();
+            //Election el = new Election();
+
+            info.DisplayInfo();
+            electionUI.MainMethod();
+            //WriteLine(el.numCandidates);
+
         }
     }
 }

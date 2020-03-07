@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Molina_StudentStudyApp/Info.cs">
     <Files>
       <File FileName="Molina_StudentStudyApp/Student.cs" Line="25" Column="29" />
-      <File FileName="Molina_StudentStudyApp/StudentUI.cs" Line="38" Column="38" />
+      <File FileName="Molina_StudentStudyApp/StudentUI.cs" />
       <File FileName="Molina_StudentStudyApp/Info.cs" Line="15" Column="34" />
-      <File FileName="../Molina_BMICalculator/Molina_BMICalculator/Info.cs" Line="1" Column="1" />
-      <File FileName="Molina_StudentStudyApp/StudentStudyApp.cs" Line="18" Column="29" />
+      <File FileName="../Molina_BMICalculator/Molina_BMICalculator/Info.cs" />
+      <File FileName="Molina_StudentStudyApp/StudentStudyApp.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

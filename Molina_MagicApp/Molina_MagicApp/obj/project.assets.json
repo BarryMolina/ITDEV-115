@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/Molina_MagicApp.csproj",
+      "projectUniqueName": "/Users/barrymolina/MATC/SP2020/C#/Molina_MagicApp/Molina_MagicApp/Molina_MagicApp.csproj",
       "projectName": "Molina_MagicApp",
-      "projectPath": "/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/Molina_MagicApp.csproj",
+      "projectPath": "/Users/barrymolina/MATC/SP2020/C#/Molina_MagicApp/Molina_MagicApp/Molina_MagicApp.csproj",
       "packagesPath": "/Users/barrymolina/.nuget/packages/",
-      "outputPath": "/Users/barrymolina/Projects/Molina_MagicApp/Molina_MagicApp/obj/",
+      "outputPath": "/Users/barrymolina/MATC/SP2020/C#/Molina_MagicApp/Molina_MagicApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/barrymolina/.config/NuGet/NuGet.Config"

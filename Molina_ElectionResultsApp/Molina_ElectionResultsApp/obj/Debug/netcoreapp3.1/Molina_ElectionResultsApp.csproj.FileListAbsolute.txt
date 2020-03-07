@@ -1,3 +1,11 @@
 /Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.csprojAssemblyReference.cache
 /Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.AssemblyInfoInputs.cache
 /Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.AssemblyInfo.cs
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp.deps.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp.runtimeconfig.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp.runtimeconfig.dev.json
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/bin/Debug/netcoreapp3.1/Molina_ElectionResultsApp.pdb
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.dll
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.pdb
