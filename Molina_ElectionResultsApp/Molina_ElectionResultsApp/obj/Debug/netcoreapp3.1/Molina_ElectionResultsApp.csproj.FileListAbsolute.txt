@@ -1,0 +1,3 @@
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.csprojAssemblyReference.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.AssemblyInfoInputs.cache
+/Users/barrymolina/MATC/SP2020/C#/Molina_ElectionResultsApp/Molina_ElectionResultsApp/obj/Debug/netcoreapp3.1/Molina_ElectionResultsApp.AssemblyInfo.cs

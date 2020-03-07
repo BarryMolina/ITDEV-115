@@ -1,19 +1,17 @@
 ﻿<Properties StartupConfiguration="{2EE544D9-B351-4758-8CC9-9F3E19A3542B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Molina__ElectionResultsApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_ElectionResultsApp/ElectionUI.cs">
+  <MonoDevelop.Ide.ItemProperties.Molina__ElectionResultsApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molina_ElectionResultsApp/Election.cs">
     <Files>
       <File FileName="Molina_ElectionResultsApp/Program.cs" Line="1" Column="1" />
-      <File FileName="Molina_ElectionResultsApp/Info.cs" Line="12" Column="8" />
+      <File FileName="Molina_ElectionResultsApp/Info.cs" />
       <File FileName="Molina_ElectionResultsApp/ElectionUI.cs" Line="29" Column="1" />
-      <File FileName="Molina_ElectionResultsApp/Election.cs" Line="16" Column="18" />
+      <File FileName="Molina_ElectionResultsApp/Election.cs" Line="16" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Molina_ElectionResultsApp" expanded="True">
-            <Node name="Molina_ElectionResultsApp" expanded="True">
-              <Node name="ElectionUI.cs" selected="True" />
-            </Node>
+            <Node name="Molina_ElectionResultsApp" expanded="True" />
           </Node>
         </State>
       </Pad>
