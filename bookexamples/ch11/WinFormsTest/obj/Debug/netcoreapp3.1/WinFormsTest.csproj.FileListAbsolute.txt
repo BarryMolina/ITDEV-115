@@ -1,0 +1,11 @@
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb

@@ -1,0 +1,3 @@
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch08\WeeklyCalorieCounter\obj\Debug\netcoreapp3.1\WeeklyCalorieCounter.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch08\WeeklyCalorieCounter\obj\Debug\netcoreapp3.1\WeeklyCalorieCounter.AssemblyInfoInputs.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch08\WeeklyCalorieCounter\obj\Debug\netcoreapp3.1\WeeklyCalorieCounter.AssemblyInfo.cs

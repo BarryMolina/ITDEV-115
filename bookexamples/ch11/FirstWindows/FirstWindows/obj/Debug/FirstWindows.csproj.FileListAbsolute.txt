@@ -1,0 +1,9 @@
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\bin\Debug\FirstWindows.exe.config
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\bin\Debug\FirstWindows.exe
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\bin\Debug\FirstWindows.pdb
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.Form1.resources
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.Properties.Resources.resources
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.csproj.GenerateResource.cache
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.exe
+C:\Users\bazza\MATC\SP2020\C#\bookexamples\ch11\FirstWindows\FirstWindows\obj\Debug\FirstWindows.pdb
