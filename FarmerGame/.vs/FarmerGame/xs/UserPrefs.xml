@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EAAEEFCD-D138-4B13-94E7-76F26E04617F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarmerGame/FarmerUI.cs">
+    <Files>
+      <File FileName="FarmerGame/Program.cs" Line="12" Column="14" />
+      <File FileName="FarmerGame/Info.cs" Line="33" Column="13" />
+      <File FileName="FarmerGame/FarmerUI.cs" Line="68" Column="59" />
+      <File FileName="FarmerGame/Farmer.cs" Line="26" Column="24" />
+      <File FileName="../Molina_MagicApp/Molina_MagicApp/MagicPCUI.cs" Line="27" Column="40" />
+      <File FileName="../Molina_MagicApp/Molina_MagicApp/Info.cs" Line="18" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FarmerGame" expanded="True">
+            <Node name="FarmerGame" expanded="True">
+              <Node name="FarmerUI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FarmerGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

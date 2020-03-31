@@ -10,8 +10,8 @@ namespace Molina_BMICalculator
             WriteLine("{0,-15}Barry Molina", "Name:");
             WriteLine("{0,-15}ITDEV-115-200", "Course:");
             WriteLine("{0,-15}J. Christie", "Instructor:");
-            WriteLine("{0,-15}Body Mass Index App", "Assignment:");
-            WriteLine("{0,-15}2/17/2020", "Date:");
+            WriteLine("{0,-15}Assignment #6 - Farmer Game", "Assignment:");
+            WriteLine("{0,-15}3/26/2020", "Date:");
             WriteLine("\n******************************************************\n");
             WriteLine("Press any key to continue.");
             ReadKey();
