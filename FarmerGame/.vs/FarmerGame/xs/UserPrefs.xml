@@ -3,10 +3,8 @@
     <Files>
       <File FileName="FarmerGame/Program.cs" Line="12" Column="14" />
       <File FileName="FarmerGame/Info.cs" />
-      <File FileName="FarmerGame/FarmerUI.cs" Line="68" Column="59" />
+      <File FileName="FarmerGame/FarmerUI.cs" Line="119" Column="40" />
       <File FileName="FarmerGame/Farmer.cs" />
-      <File FileName="../Molina_MagicApp/Molina_MagicApp/MagicPCUI.cs" />
-      <File FileName="../Molina_MagicApp/Molina_MagicApp/Info.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

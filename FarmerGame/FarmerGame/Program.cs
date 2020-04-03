@@ -9,8 +9,8 @@ namespace FarmerGame
             Info info = new Info();
             FarmerUI farmerUI = new FarmerUI();
 
-            //info.AssignmentInfo();
-            farmerUI.DisplayGameState();
+            info.AssignmentInfo();
+            farmerUI.PlayGame();
         }
     }
 }
