@@ -1,0 +1,9 @@
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\bin\Debug\MolinaEventProgramming.exe.config
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\bin\Debug\MolinaEventProgramming.exe
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\bin\Debug\MolinaEventProgramming.pdb
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.Form1.resources
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.Properties.Resources.resources
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.csproj.GenerateResource.cache
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.exe
+C:\Users\bazza\MATC\SP2020\C#\MolinaEventProgramming\MolinaEventProgramming\obj\Debug\MolinaEventProgramming.pdb

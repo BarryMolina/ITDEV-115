@@ -1,0 +1,10 @@
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\bin\Debug\Molina_FarmerGameGUI.exe.config
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\bin\Debug\Molina_FarmerGameGUI.exe
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\bin\Debug\Molina_FarmerGameGUI.pdb
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.Form1.resources
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.Properties.Resources.resources
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.csproj.GenerateResource.cache
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.exe
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.pdb
+C:\Users\bazza\MATC\SP2020\C#\Molina_FarmerGameGUI\Molina_FarmerGameGUI\obj\Debug\Molina_FarmerGameGUI.Form2.resources
