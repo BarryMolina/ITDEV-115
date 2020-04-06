@@ -58,7 +58,7 @@
             this.label2.BackColor = System.Drawing.Color.LimeGreen;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.ForestGreen;
-            this.label2.Location = new System.Drawing.Point(6, 264);
+            this.label2.Location = new System.Drawing.Point(6, 263);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(785, 100);
             this.label2.TabIndex = 2;
@@ -70,7 +70,7 @@
             this.label3.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.label3.Location = new System.Drawing.Point(14, 153);
+            this.label3.Location = new System.Drawing.Point(14, 146);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(774, 80);
             this.label3.TabIndex = 3;
@@ -79,7 +79,7 @@
             // lblNorthBank
             // 
             this.lblNorthBank.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNorthBank.Location = new System.Drawing.Point(320, 125);
+            this.lblNorthBank.Location = new System.Drawing.Point(320, 119);
             this.lblNorthBank.Name = "lblNorthBank";
             this.lblNorthBank.Size = new System.Drawing.Size(160, 18);
             this.lblNorthBank.TabIndex = 4;
@@ -89,9 +89,9 @@
             // lblSouthBank
             // 
             this.lblSouthBank.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSouthBank.Location = new System.Drawing.Point(272, 233);
+            this.lblSouthBank.Location = new System.Drawing.Point(272, 236);
             this.lblSouthBank.Name = "lblSouthBank";
-            this.lblSouthBank.Size = new System.Drawing.Size(256, 31);
+            this.lblSouthBank.Size = new System.Drawing.Size(256, 18);
             this.lblSouthBank.TabIndex = 5;
             this.lblSouthBank.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -139,6 +139,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Wheat;
             this.ClientSize = new System.Drawing.Size(800, 557);
             this.Controls.Add(this.comboBoxItems);
             this.Controls.Add(this.btnMove);
