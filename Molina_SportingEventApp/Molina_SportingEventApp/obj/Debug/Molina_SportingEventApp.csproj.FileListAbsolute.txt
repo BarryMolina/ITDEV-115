@@ -1,0 +1,10 @@
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\bin\Debug\Molina_SportingEventApp.exe.config
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\bin\Debug\Molina_SportingEventApp.exe
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\bin\Debug\Molina_SportingEventApp.pdb
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.csprojAssemblyReference.cache
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.Form1.resources
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.Properties.Resources.resources
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.csproj.GenerateResource.cache
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.exe
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.pdb
+C:\Users\bazza\MATC\SP2020\C#\Molina_SportingEventApp\Molina_SportingEventApp\obj\Debug\Molina_SportingEventApp.Form2.resources
