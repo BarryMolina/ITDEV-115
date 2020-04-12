@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Molina_SportingEventApp
 {
-    class Child
+    public class Child
     {
         private string city;
         private string name;

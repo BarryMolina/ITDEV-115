@@ -12,9 +12,22 @@ namespace Molina_SportingEventApp
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private Child[] regChildren;
+        private int count;
+        public Form2(Child[] children, int index)
         {
             InitializeComponent();
+            regChildren = children;
+            count = index;
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                lstBxName.Items.Add(regChildren[i].Name);
+                lstBxSport.Items.Add(regChildren[i].Sport);
+            }
         }
     }
 }

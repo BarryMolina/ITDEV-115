@@ -38,9 +38,9 @@
             this.lblStreet = new System.Windows.Forms.Label();
             this.lblCity = new System.Windows.Forms.Label();
             this.lblState = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtBxName = new System.Windows.Forms.TextBox();
+            this.txtBxStreet = new System.Windows.Forms.TextBox();
+            this.txtBxCity = new System.Windows.Forms.TextBox();
             this.cmBxState = new System.Windows.Forms.ComboBox();
             this.rdBtnRugby = new System.Windows.Forms.RadioButton();
             this.rdBtnLacrosse = new System.Windows.Forms.RadioButton();
@@ -50,7 +50,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnRegister = new System.Windows.Forms.Button();
             this.picBxRugby = new System.Windows.Forms.PictureBox();
-            this.sportSelected = new System.Windows.Forms.TextBox();
+            this.txtBxMsg = new System.Windows.Forms.TextBox();
             this.picBxPolo = new System.Windows.Forms.PictureBox();
             this.picBxLacrosse = new System.Windows.Forms.PictureBox();
             this.picBxFrisbee = new System.Windows.Forms.PictureBox();
@@ -86,14 +86,16 @@
             // infoToolStripMenuItem
             // 
             this.infoToolStripMenuItem.Name = "infoToolStripMenuItem";
-            this.infoToolStripMenuItem.Size = new System.Drawing.Size(102, 22);
+            this.infoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.infoToolStripMenuItem.Text = "Info";
+            this.infoToolStripMenuItem.Click += new System.EventHandler(this.infoToolStripMenuItem_Click);
             // 
             // resetToolStripMenuItem
             // 
             this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
-            this.resetToolStripMenuItem.Size = new System.Drawing.Size(102, 22);
+            this.resetToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.resetToolStripMenuItem.Text = "Reset";
+            this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
             // 
             // lblTitle
             // 
@@ -145,29 +147,29 @@
             this.lblState.TabIndex = 5;
             this.lblState.Text = "State:";
             // 
-            // textBox1
+            // txtBxName
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(158, 115);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(203, 24);
-            this.textBox1.TabIndex = 6;
+            this.txtBxName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxName.Location = new System.Drawing.Point(158, 115);
+            this.txtBxName.Name = "txtBxName";
+            this.txtBxName.Size = new System.Drawing.Size(203, 24);
+            this.txtBxName.TabIndex = 6;
             // 
-            // textBox2
+            // txtBxStreet
             // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(158, 146);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(203, 24);
-            this.textBox2.TabIndex = 7;
+            this.txtBxStreet.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxStreet.Location = new System.Drawing.Point(158, 146);
+            this.txtBxStreet.Name = "txtBxStreet";
+            this.txtBxStreet.Size = new System.Drawing.Size(203, 24);
+            this.txtBxStreet.TabIndex = 7;
             // 
-            // textBox3
+            // txtBxCity
             // 
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(158, 177);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(203, 24);
-            this.textBox3.TabIndex = 8;
+            this.txtBxCity.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxCity.Location = new System.Drawing.Point(158, 177);
+            this.txtBxCity.Name = "txtBxCity";
+            this.txtBxCity.Size = new System.Drawing.Size(203, 24);
+            this.txtBxCity.TabIndex = 8;
             // 
             // cmBxState
             // 
@@ -279,6 +281,7 @@
             this.btnRegister.TabIndex = 16;
             this.btnRegister.Text = "Register";
             this.btnRegister.UseVisualStyleBackColor = false;
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // picBxRugby
             // 
@@ -290,15 +293,15 @@
             this.picBxRugby.TabStop = false;
             this.picBxRugby.Visible = false;
             // 
-            // sportSelected
+            // txtBxMsg
             // 
-            this.sportSelected.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sportSelected.Location = new System.Drawing.Point(290, 378);
-            this.sportSelected.Name = "sportSelected";
-            this.sportSelected.Size = new System.Drawing.Size(209, 24);
-            this.sportSelected.TabIndex = 18;
-            this.sportSelected.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.sportSelected.Visible = false;
+            this.txtBxMsg.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBxMsg.Location = new System.Drawing.Point(290, 378);
+            this.txtBxMsg.Name = "txtBxMsg";
+            this.txtBxMsg.Size = new System.Drawing.Size(209, 24);
+            this.txtBxMsg.TabIndex = 18;
+            this.txtBxMsg.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBxMsg.Visible = false;
             // 
             // picBxPolo
             // 
@@ -352,14 +355,14 @@
             this.Controls.Add(this.picBxFrisbee);
             this.Controls.Add(this.picBxLacrosse);
             this.Controls.Add(this.picBxPolo);
-            this.Controls.Add(this.sportSelected);
+            this.Controls.Add(this.txtBxMsg);
             this.Controls.Add(this.picBxRugby);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.cmBxState);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtBxCity);
+            this.Controls.Add(this.txtBxStreet);
+            this.Controls.Add(this.txtBxName);
             this.Controls.Add(this.lblState);
             this.Controls.Add(this.lblCity);
             this.Controls.Add(this.lblStreet);
@@ -369,6 +372,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Sporting Event Sign Up Application";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
@@ -394,9 +398,9 @@
         private System.Windows.Forms.Label lblStreet;
         private System.Windows.Forms.Label lblCity;
         private System.Windows.Forms.Label lblState;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtBxName;
+        private System.Windows.Forms.TextBox txtBxStreet;
+        private System.Windows.Forms.TextBox txtBxCity;
         private System.Windows.Forms.ComboBox cmBxState;
         private System.Windows.Forms.RadioButton rdBtnRugby;
         private System.Windows.Forms.RadioButton rdBtnLacrosse;
@@ -406,7 +410,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btnRegister;
         private System.Windows.Forms.PictureBox picBxRugby;
-        private System.Windows.Forms.TextBox sportSelected;
+        private System.Windows.Forms.TextBox txtBxMsg;
         private System.Windows.Forms.PictureBox picBxPolo;
         private System.Windows.Forms.PictureBox picBxLacrosse;
         private System.Windows.Forms.PictureBox picBxFrisbee;
