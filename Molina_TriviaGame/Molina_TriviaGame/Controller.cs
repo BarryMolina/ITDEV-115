@@ -45,13 +45,10 @@ namespace Molina_TriviaGame
 
                     response = ReadLine();
 
-                    if (!string.IsNullOrEmpty(response))
+                    if (!string.IsNullOrEmpty(response) && response.ToUpper()[0] == qBank.GetCorrectAnswer(i))
                     {
-                        if (response.ToUpper()[0] == qBank.GetCorrectAnswer(i))
-                        {
                             WriteLine("\nYou are correct!");
                             correct++;
-                        }
                     }
                     else
                     {
