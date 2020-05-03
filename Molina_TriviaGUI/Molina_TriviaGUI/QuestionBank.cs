@@ -12,8 +12,9 @@ namespace Molina_TriviaGUI
         private string fileName = "trivia.txt";
         public static int NO_OF_QUESTIONS = 5;
         public static int NO_OF_ANSWERS = 4;
+        public static char[] answerChars = { 'A', 'B', 'C', 'D' };
+               
         private Question[] questionBank = new Question[NO_OF_QUESTIONS];
-
 
         public string[] GetAnswers(int questionNum)
         {
