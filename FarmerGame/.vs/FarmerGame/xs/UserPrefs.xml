@@ -1,11 +1,22 @@
 ﻿<Properties StartupConfiguration="{EAAEEFCD-D138-4B13-94E7-76F26E04617F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FarmerGame/FarmerUI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarmerGame/Farmer.cs">
     <Files>
-      <File FileName="FarmerGame/Program.cs" Line="12" Column="14" />
-      <File FileName="FarmerGame/Info.cs" />
-      <File FileName="FarmerGame/FarmerUI.cs" Line="119" Column="40" />
-      <File FileName="FarmerGame/Farmer.cs" />
+      <File FileName="FarmerGame/Program.cs" Line="13" Column="13" />
+      <File FileName="FarmerGame/Info.cs" Line="16" Column="33" />
+      <File FileName="FarmerGame/FarmerUI.cs" Line="96" Column="13" />
+      <File FileName="FarmerGame/Farmer.cs" Line="3" Column="14" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FarmerGame" expanded="True">
+            <Node name="FarmerGame" expanded="True">
+              <Node name="Farmer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
