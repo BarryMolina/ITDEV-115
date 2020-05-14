@@ -14,8 +14,9 @@ namespace Molina_TriviaGUI
     public partial class Form1 : Form
     {
         QuestionBank qBank;
-        private int q = 0;
+        private int q;
         private const char NO_ANSWER = 'Z';
+        private int correct;
         public Form1()
         {
             InitializeComponent();
@@ -35,11 +36,10 @@ namespace Molina_TriviaGUI
             }
             catch (FileNotFoundException ex)
             {
-                //Environment.Exit(1);
                 Console.WriteLine("File not found: " + ex.Message);
             }
 
-            LoadQuestion();
+            resetForm();
 
             //Console.WriteLine(qBank);
 
@@ -53,7 +53,7 @@ namespace Molina_TriviaGUI
                         "\nCourse:\t\tITDEV-115-200" +
                         "\nInstructor:\tJ. Christie" +
                         "\nAssignment:\tTrivia Game GUI" +
-                        "\nDate:\t\t4/23/2020";
+                        "\nDate:\t\t5/3/2020";
             MessageBox.Show(info, "Extra Credit - Trivia GUI", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
@@ -64,10 +64,17 @@ namespace Molina_TriviaGUI
             rbB.Text = qBank.GetAnswers(q)[1];
             rbC.Text = qBank.GetAnswers(q)[2];
             rbD.Text = qBank.GetAnswers(q)[3];
+            rbA.Checked = false;
+            rbB.Checked = false;
+            rbC.Checked = false;
+            rbD.Checked = false;
+
+            setVisiblity(true);
         }
 
         private void picSubmit_Click(object sender, EventArgs e)
         {
+            string msg;
             char ans = NO_ANSWER;
             if (rbA.Checked)
             {
@@ -92,6 +99,7 @@ namespace Molina_TriviaGUI
                 if (ans == qBank.GetCorrectAnswer(q))
                 {
                     lblQuestion.Text = "You are correct!";
+                    correct++;
                 }
                 else
                 {
@@ -100,12 +108,27 @@ namespace Molina_TriviaGUI
                 }
                 lblMsg.Text = qBank.GetExplanation(q);
                 q++;
+                if (q >= QuestionBank.NO_OF_QUESTIONS)
+                {
+                    msg = "You had " + correct + " correct answers out of " + QuestionBank.NO_OF_QUESTIONS;
+                    msg += String.Format("\nThis gives you a percentage of {0:P}", ((double)correct / QuestionBank.NO_OF_QUESTIONS));
+                    msg += "\n\nWould you like to try again?";
+                    DialogResult res = MessageBox.Show(msg, "Trivia Score", MessageBoxButtons.YesNo);
+                    if (res == DialogResult.Yes)
+                    {
+                        resetForm();
+                    }
+                    else
+                    {
+                        Application.Exit();
+                    }
+
+                }
             }
         }
 
         private void picNext_Click(object sender, EventArgs e)
         {
-            setVisiblity(true);
             LoadQuestion();
         }
 
@@ -118,7 +141,12 @@ namespace Molina_TriviaGUI
             picSubmit.Visible = visible;
             picNext.Visible = !visible;
             lblMsg.Visible = !visible;
-
+        }
+        private void resetForm()
+        {
+            q = 0;
+            correct = 0;
+            LoadQuestion();
         }
     }
 }

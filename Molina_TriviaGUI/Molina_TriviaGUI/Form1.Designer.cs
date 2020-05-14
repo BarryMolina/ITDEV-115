@@ -83,7 +83,6 @@
             this.rbA.Name = "rbA";
             this.rbA.Size = new System.Drawing.Size(136, 25);
             this.rbA.TabIndex = 3;
-            this.rbA.TabStop = true;
             this.rbA.Text = "Thomas Hardy";
             this.rbA.UseVisualStyleBackColor = false;
             // 
@@ -96,7 +95,6 @@
             this.rbC.Name = "rbC";
             this.rbC.Size = new System.Drawing.Size(122, 25);
             this.rbC.TabIndex = 4;
-            this.rbC.TabStop = true;
             this.rbC.Text = "Issac Asimov";
             this.rbC.UseVisualStyleBackColor = false;
             // 
@@ -109,7 +107,6 @@
             this.rbB.Name = "rbB";
             this.rbB.Size = new System.Drawing.Size(132, 25);
             this.rbB.TabIndex = 5;
-            this.rbB.TabStop = true;
             this.rbB.Text = "Philip K. Dick";
             this.rbB.UseVisualStyleBackColor = false;
             // 
@@ -122,7 +119,6 @@
             this.rbD.Name = "rbD";
             this.rbD.Size = new System.Drawing.Size(156, 25);
             this.rbD.TabIndex = 6;
-            this.rbD.TabStop = true;
             this.rbD.Text = "Arthur C. Clarke";
             this.rbD.UseVisualStyleBackColor = false;
             // 
@@ -156,7 +152,7 @@
             this.lblMsg.AutoSize = true;
             this.lblMsg.BackColor = System.Drawing.Color.Transparent;
             this.lblMsg.Font = new System.Drawing.Font("MV Boli", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMsg.Location = new System.Drawing.Point(82, 166);
+            this.lblMsg.Location = new System.Drawing.Point(85, 186);
             this.lblMsg.MaximumSize = new System.Drawing.Size(350, 0);
             this.lblMsg.Name = "lblMsg";
             this.lblMsg.Size = new System.Drawing.Size(0, 25);
